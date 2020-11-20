@@ -9,10 +9,12 @@ import argparse
 
 parser = argparse.ArgumentParser(description = 'Envio de un mensaje a correos listados en un txt')
 parser.add_argument('-l', help='Nombre de la lista con extension txt que contiene los correos a los cuales mandar el mensaje')
+parser.add_argument('-e', help= 'Encabezado del mensaje a enviar')
 parser.add_argument('-m', help='Mensaje a enviar a los correos de la lista')
 args = parser.parse_args()
 
-correo_remitente =str(args.l)
+correo_remitente = str(args.l)
+head = str(args.e)
 message = str(args.m)
 #FIN MODIFICACION
 
@@ -30,7 +32,7 @@ msg = MIMEMultipart()
 msg['From'] = data['user']
 
 msg['To'] = correo_remitente
-msg['Subject'] = "Hola"
+msg['Subject'] = head
 
 # add in the message body
 msg.attach(MIMEText(message, 'plain'))
