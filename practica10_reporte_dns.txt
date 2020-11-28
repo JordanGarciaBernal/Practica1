@@ -1,0 +1,515 @@
+Configuración IP de Windows
+
+    scinstallcheck.mcafee.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    scinstallcheck.mcafee.com
+    ----------------------------------------
+    Nombre de registro  . : scinstallcheck.mcafee.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 86400
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.1
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 19
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 19
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 19
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.s-msedge.net
+
+
+    Nombre de registro  . : s-0005.s-msedge.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 19
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:42::132
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 100
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 100
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 100
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.s-msedge.net
+
+
+    Nombre de registro  . : s-0005.s-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 100
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.113.194.132
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : content-autofill.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 154
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:808::200a
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : content-autofill.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 101
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.10
+
+
+    bgpdefault-lax.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : bgpdefault-lax.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 235
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : m1-0073.m1-msedge.net
+
+
+    Nombre de registro  . : m1-0073.m1-msedge.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 235
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:26:16::160
+
+
+    bgpdefault-lax.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : bgpdefault-lax.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 235
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : m1-0073.m1-msedge.net
+
+
+    Nombre de registro  . : m1-0073.m1-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 235
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.255.160
+
+
+    login.microsoftonline.com
+    ----------------------------------------
+    Nombre de registro  . : login.microsoftonline.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 24
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a.privatelink.msidentity.com
+
+
+    Nombre de registro  . : a.privatelink.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 24
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : prda.aadg.msidentity.com
+
+
+    Nombre de registro  . : prda.aadg.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 24
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www.tm.a.prd.aadg.akadns.net
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.8
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.97
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.98
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.96
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.103
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.34
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.98
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 24
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.32
+
+
+    api.cortana.ai
+    ----------------------------------------
+    Nombre de registro  . : api.cortana.ai
+    Tipo de registro  . . : 5
+    Período de vida . . . : 17
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : api-cortana-ai.b-0005.b-msedge.net
+
+
+    Nombre de registro  . : api-cortana-ai.b-0005.b-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 17
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : b-0005.b-msedge.net
+
+
+    Nombre de registro  . : b-0005.b-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 17
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.6.158
+
+
+    graph.windows.net
+    ----------------------------------------
+    Nombre de registro  . : graph.windows.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 57
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : na.privatelink.msidentity.com
+
+
+    Nombre de registro  . : na.privatelink.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 57
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : prdf.aadg.msidentity.com
+
+
+    Nombre de registro  . : prdf.aadg.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 57
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www.tm.f.prd.aadg.trafficmanager.net
+
+
+    Nombre de registro  . : www.tm.f.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 57
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : bno.b.f.prd.aadg.trafficmanager.net
+
+
+    Nombre de registro  . : bno.b.f.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.0
+
+
+    Nombre de registro  . : bno.b.f.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.64
+
+
+    Nombre de registro  . : bno.b.f.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.69
+
+
+    mtalk.google.com
+    ----------------------------------------
+    Nombre de registro  . : mtalk.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 168
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : mobile-gtalk.l.google.com
+
+
+    Nombre de registro  . : mobile-gtalk.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 168
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4003:c0a::bc
+
+
+    mtalk.google.com
+    ----------------------------------------
+    Nombre de registro  . : mtalk.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 225
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : mobile-gtalk.l.google.com
+
+
+    Nombre de registro  . : mobile-gtalk.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.127.188
+
+
+    fp-afd.azurefd.net
+    ----------------------------------------
+    Nombre de registro  . : fp-afd.azurefd.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 11
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star-azurefd-prod.trafficmanager.net
+
+
+    Nombre de registro  . : star-azurefd-prod.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 11
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : t-0003.t-msedge.net
+
+
+    Nombre de registro  . : t-0003.t-msedge.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 11
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:bdf::13
+
+
+    fp-afd.azurefd.net
+    ----------------------------------------
+    Nombre de registro  . : fp-afd.azurefd.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star-azurefd-prod.trafficmanager.net
+
+
+    Nombre de registro  . : star-azurefd-prod.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : t-0003.t-msedge.net
+
+
+    Nombre de registro  . : t-0003.t-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.246.13
+
+
+    urlp.sfbassets.com
+    ----------------------------------------
+    Nombre de registro  . : urlp.sfbassets.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 26
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : urlp-sfbassets-com.s-0004.s-msedge.net
+
+
+    Nombre de registro  . : urlp-sfbassets-com.s-0004.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 26
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0004.s-msedge.net
+
+
+    Nombre de registro  . : s-0004.s-msedge.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 26
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:42::131
+
+
+    urlp.sfbassets.com
+    ----------------------------------------
+    Nombre de registro  . : urlp.sfbassets.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 47
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : urlp-sfbassets-com.s-0004.s-msedge.net
+
+
+    Nombre de registro  . : urlp-sfbassets-com.s-0004.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 47
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0004.s-msedge.net
+
+
+    Nombre de registro  . : s-0004.s-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 47
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.113.194.131
+
+
+    1.0.0.0.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 86400
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : scinstallcheck.mcafee.com
+
+
+    prod.cdn.powerbi.com
+    ----------------------------------------
+    Nombre de registro  . : prod.cdn.powerbi.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 96
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : az822310.vo.msecnd.net
+
+
+    Nombre de registro  . : az822310.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 96
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 96
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    prod.cdn.powerbi.com
+    ----------------------------------------
+    Nombre de registro  . : prod.cdn.powerbi.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 74
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : az822310.vo.msecnd.net
+
+
+    Nombre de registro  . : az822310.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 74
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 74
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
